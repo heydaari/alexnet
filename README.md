@@ -1,3 +1,5 @@
+# AlexNet
+
 # AlexNet Implementation with Tensorflow-Keras
 
 ![alt text](https://th.bing.com/th/id/R.b5bd0f70b4bd3c335417112a329fdd56?rik=j3Vwi5BKfTA2WQ&riu=http%3a%2f%2fleiblog.wang%2fstatic%2fimage%2f2020%2f10%2fTL5kcp.jpg&ehk=ukswjG1YAvpxb1nyrcxHvBx4LQw8vplnNQFTk0BQPrA%3d&risl=&pid=ImgRaw&r=0)
@@ -31,7 +33,7 @@ The model is compiled with the SGD optimizer with a learning rate of 0.001, and 
 
 ## Results
 
-After 50 epochs of training on 10000 train images and validating 1000 validation images, the model showd 99% accuracy on training set and 66% acuracy on test set ; which is acceptable because we used only 10000 images out of 50000 images for training .
+After 64 epochs of training on 10000 train images and validating 1000 validation images, the model showd 99% accuracy on training set and 66% acuracy on test set ; which is acceptable because we used only 10000 images out of 50000 images for training .
 
 ## Usage
 
